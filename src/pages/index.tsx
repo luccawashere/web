@@ -1,5 +1,6 @@
 export default function Index() {
   return (
-    <h1 className="font-semibold text-red-400">hi</h1>
+    <h1 className="rainbow-text">hi <audio controls></audio> <audio src=" /cocaine.mp3"></audio></h1>
+
   )
 }
