@@ -13,6 +13,8 @@
   font-style: italic;
   font-named-instance: 'Italic';
   src: url('/fonts/Inter-italic.var.woff2') format('woff2');
+  
+  
 }
 
 @tailwind base;
@@ -67,5 +69,4 @@
   91%{
     color: rgb(255,0,127);
   }
-
 }
