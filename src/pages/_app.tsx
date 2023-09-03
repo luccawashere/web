@@ -11,7 +11,7 @@ export default function MyApp({ Component, pageProps }: AppProps): JSX.Element {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       </Head>
       <div className="bg-black h-screen text-center"> 
-      <Component {...pageProps} />
+        <Component {...pageProps} />
       </div>
     </>
   );

@@ -22,13 +22,11 @@
 @tailwind utilities;
 
 #__next 
-  
-  
   .animateanimated.animatefadeInUp {
     --animate-duration: 0.35s;
 }
 .rainbow-text {
-  animation: rainbow-text 5s linear;
+  animation: rainbow-text 10s linear;
   animation-iteration-count: infinite;
 }
 
